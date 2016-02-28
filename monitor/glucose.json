@@ -1,32 +1,32 @@
 [
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-02-28T15:47:56", 
-    "display_time": "2016-02-28T07:46:24", 
-    "glucose": 136
+    "system_time": "2016-02-28T16:27:56", 
+    "display_time": "2016-02-28T08:26:24", 
+    "glucose": 141
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-02-28T15:42:56", 
-    "display_time": "2016-02-28T07:41:24", 
-    "glucose": 135
+    "system_time": "2016-02-28T16:22:56", 
+    "display_time": "2016-02-28T08:21:24", 
+    "glucose": 141
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-02-28T15:37:56", 
-    "display_time": "2016-02-28T07:36:24", 
-    "glucose": 134
+    "system_time": "2016-02-28T16:17:56", 
+    "display_time": "2016-02-28T08:16:24", 
+    "glucose": 142
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-02-28T15:32:56", 
-    "display_time": "2016-02-28T07:31:24", 
-    "glucose": 134
+    "system_time": "2016-02-28T16:12:56", 
+    "display_time": "2016-02-28T08:11:24", 
+    "glucose": 142
   }, 
   {
     "trend_arrow": "FLAT", 
-    "system_time": "2016-02-28T15:27:56", 
-    "display_time": "2016-02-28T07:26:24", 
-    "glucose": 134
+    "system_time": "2016-02-28T16:07:56", 
+    "display_time": "2016-02-28T08:06:24", 
+    "glucose": 142
   }
 ]
