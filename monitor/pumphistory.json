@@ -1,0 +1,30 @@
+[
+  {
+    "_type": "ChangeMaxBasal", 
+    "_description": "ChangeMaxBasal 2016-02-28T08:06:50 head[2], body[0] op[0x2c]", 
+    "timestamp": "2016-02-28T08:06:50", 
+    "_body": "", 
+    "maxBasal": 1.35, 
+    "_head": "2c36", 
+    "_date": "3286081c10"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "duration (min)": 30, 
+    "_description": "TempBasalDuration 2016-02-28T07:51:10 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-02-28T07:51:10", 
+    "_body": "", 
+    "_head": "1601", 
+    "_date": "0ab3075c10"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-02-28T07:51:10 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-02-28T07:51:10", 
+    "_body": "00", 
+    "_head": "332f", 
+    "rate": 1.175, 
+    "_date": "0ab3075c10"
+  }
+]
