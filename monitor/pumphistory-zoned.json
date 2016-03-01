@@ -1,0 +1,55 @@
+[
+  {
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-03-01T02:07:41 head[4], body[0] op[0x01]", 
+    "timestamp": "2016-03-01T02:07:41-05:00", 
+    "_body": "", 
+    "programmed": 1.5, 
+    "_head": "010f0f00", 
+    "amount": 1.5, 
+    "duration": 0, 
+    "type": "normal", 
+    "_date": "29c7420110"
+  }, 
+  {
+    "_type": "Model522ResultTotals", 
+    "_description": "Model522ResultTotals 2016-03-01T00:00:00 head[1], body[41] op[0x6d]", 
+    "timestamp": "2016-03-01T00:00:00-05:00", 
+    "_body": "05008778a607000005c2029c2d0326370092032637026e4d00480900700e0e080101040c00e8000000", 
+    "_head": "6d", 
+    "_date": "3d10"
+  }, 
+  {
+    "_type": "ResultDailyTotal", 
+    "_description": "ResultDailyTotal 2016-03-01T00:00:00 head[5], body[0] op[0x07]", 
+    "timestamp": "2016-03-01T00:00:00-05:00", 
+    "_body": "", 
+    "_head": "07000005c2", 
+    "valid_date": "2016-02-29", 
+    "_date": "3d10"
+  }, 
+  {
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-02-29T22:32:38 head[4], body[0] op[0x01]", 
+    "timestamp": "2016-02-29T22:32:38-05:00", 
+    "_body": "", 
+    "programmed": 0.7, 
+    "_head": "01070700", 
+    "amount": 0.7, 
+    "duration": 0, 
+    "type": "normal", 
+    "_date": "26a0561d10"
+  }, 
+  {
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-02-29T22:30:19 head[4], body[0] op[0x01]", 
+    "timestamp": "2016-02-29T22:30:19-05:00", 
+    "_body": "", 
+    "programmed": 0.5, 
+    "_head": "01050500", 
+    "amount": 0.5, 
+    "duration": 0, 
+    "type": "normal", 
+    "_date": "139e561d10"
+  }
+]
