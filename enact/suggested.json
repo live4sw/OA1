@@ -1,1 +1,1 @@
-{"temp":"absolute","bg":148,"tick":-4,"eventualBG":120,"snoozeBG":121,"reason":"Eventual BG 120>100 but Delta -4 < Exp. Delta -3.3; no temp to cancel"}
+{"temp":"absolute","bg":143,"tick":-5,"eventualBG":113,"snoozeBG":113,"reason":"Eventual BG 113>100 but Avg. Delta -5.00 < Exp. Delta -3; no temp to cancel"}
