@@ -1,12 +1,17 @@
 {
-  "bg": 127, 
+  "requested": {
+    "duration": 30, 
+    "rate": 1.45, 
+    "temp": "absolute"
+  }, 
+  "bg": 212, 
   "temp": "absolute", 
-  "snoozeBG": 130, 
-  "recieved": true, 
+  "snoozeBG": 227, 
+  "timestamp": "2016-03-08T09:36:22.662390", 
   "rate": 0.0, 
-  "reason": "Eventual BG 130>120 but Delta -3 < Exp. Delta -0.2; cancel", 
-  "eventualBG": 130, 
-  "timestamp": "2016-03-08T06:31:13.126145", 
+  "reason": "max_iob 2, adj. req. rate:5.0 to maxSafeBasal:1.4, no temp, setting 1.45U/hr", 
+  "eventualBG": 227, 
+  "recieved": false, 
   "duration": 0, 
-  "tick": -3
+  "tick": "+5"
 }
