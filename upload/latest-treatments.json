@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "duration": "0",
+    "bolus": {
+      "_type": "Bolus",
+      "_description": "Bolus 2016-03-11T13:16:52 head[4], body[0] op[0x01]",
+      "timestamp": "2016-03-11T13:16:52-05:00",
+      "_body": "",
+      "appended": [
+        {
+          "_type": "UnabsorbedInsulinBolus",
+          "_description": "UnabsorbedInsulinBolus unknown head[8], body[0] op[0x5c]",
+          "_body": "",
+          "_head": "5c0840b2c02884d0",
+          "data": [
+            {
+              "amount": 1.6,
+              "age": 178
+            },
+            {
+              "amount": 1,
+              "age": 388
+            }
+          ],
+          "_date": ""
+        }
+      ],
+      "programmed": 1.1,
+      "duration": 0,
+      "amount": 1.1,
+      "_head": "010b0b00",
+      "type": "normal",
+      "_date": "34d04d0b10"
+    },
+    "timestamp": "2016-03-11T13:16:52-05:00",
+    "created_at": "2016-03-11T13:16:52-05:00",
+    "carbs": "8",
+    "ratio": "7",
+    "wizard": {
+      "unknown_byte[8]": 0,
+      "_type": "BolusWizard",
+      "bg": 0,
+      "_byte[5]": 0,
+      "unknown_byte[10]": 0,
+      "_description": "BolusWizard 2016-03-11T13:16:52 head[2], body[13] op[0x5b]",
+      "timestamp": "2016-03-11T13:16:52-05:00",
+      "_body": "0850072869000b000000000b73",
+      "bg_target_high": 115,
+      "sensitivity": 40,
+      "carb_ratio": 7,
+      "food_estimate": 1.1,
+      "unabsorbed_insulin_total": 0,
+      "correction_estimate": 0,
+      "carb_input": 8,
+      "_head": "5b00",
+      "unabsorbed_insulin_count": "??",
+      "_byte[7]": 0,
+      "bolus_estimate": 1.1,
+      "_date": "34d00d0b10",
+      "bg_target_low": 105
+    },
+    "eventType": "<none>",
+    "insulin": "1.1",
+    "notes": "Normal bolus with wizard.\nProgrammed bolus 1.1\nDelivered bolus 1.1\nPercent delivered:  100%\nFood estimate 1.1\nCorrection estimate 0\nBolus estimate 1.1\nTarget low 105\nTarget high 115\nHypothetical glucose delta -44",
+    "medtronic": "mm://openaps/mm-format-ns-treatments/<none>",
+    "enteredBy": "openaps://medtronic/522"
+  }
+]
