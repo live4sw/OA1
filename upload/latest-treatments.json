@@ -1,31 +1,68 @@
 [
   {
-    "duration": "30",
-    "raw_duration": {
-      "_type": "TempBasalDuration",
-      "_description": "TempBasalDuration 2016-03-12T19:10:16 head[2], body[0] op[0x16]",
-      "timestamp": "2016-03-12T19:10:16-05:00",
-      "_body": "",
-      "_head": "1601",
-      "duration (min)": 30,
-      "_date": "10ca134c10"
-    },
-    "timestamp": "2016-03-12T19:10:16-05:00",
-    "absolute": "0",
-    "rate": 0,
-    "raw_rate": {
-      "_type": "TempBasal",
-      "temp": "absolute",
-      "_description": "TempBasal 2016-03-12T19:10:16 head[2], body[1] op[0x33]",
-      "timestamp": "2016-03-12T19:10:16-05:00",
-      "_body": "00",
-      "_head": "3300",
-      "rate": 0,
-      "_date": "10ca134c10"
-    },
-    "eventType": "Temp Basal",
-    "medtronic": "mm://openaps/mm-format-ns-treatments/Temp Basal",
-    "created_at": "2016-03-12T19:10:16-05:00",
-    "enteredBy": "openaps://medtronic/522"
+    "_type": "Model522ResultTotals",
+    "_description": "Model522ResultTotals 2016-03-13T00:00:00 head[1], body[41] op[0x6d]",
+    "timestamp": "2016-03-13T00:00:00-05:00",
+    "_body": "0500605c64020000033402884f00ac15002200ac1500a05d000c0700000004030001000c00e8000000",
+    "_head": "6d",
+    "_date": "2c90",
+    "medtronic": "mm://openaps/mm-format-ns-treatments/Model522ResultTotals",
+    "created_at": "2016-03-13T00:00:00-05:00",
+    "enteredBy": "openaps://medtronic/522",
+    "eventType": "Note",
+    "notes": "Model522ResultTotals 522 "
+  },
+  {
+    "_type": "ResultDailyTotal",
+    "_description": "ResultDailyTotal 2016-03-13T00:00:00 head[5], body[0] op[0x07]",
+    "timestamp": "2016-03-13T00:00:00-05:00",
+    "_body": "",
+    "_head": "0700000334",
+    "valid_date": "2016-03-12",
+    "_date": "2c90",
+    "medtronic": "mm://openaps/mm-format-ns-treatments/ResultDailyTotal",
+    "created_at": "2016-03-13T00:00:00-05:00",
+    "enteredBy": "openaps://medtronic/522",
+    "eventType": "Note",
+    "notes": "ResultDailyTotal 522 "
+  },
+  {
+    "_type": "NewTimeSet",
+    "_description": "NewTimeSet 2016-03-12T22:04:00 head[2], body[0] op[0x18]",
+    "timestamp": "2016-03-12T22:04:00-05:00",
+    "_body": "",
+    "_head": "1800",
+    "_date": "00c4160c10",
+    "medtronic": "mm://openaps/mm-format-ns-treatments/NewTimeSet",
+    "created_at": "2016-03-12T22:04:00-05:00",
+    "enteredBy": "openaps://medtronic/522",
+    "eventType": "Note",
+    "notes": "NewTimeSet 522 "
+  },
+  {
+    "_type": "ChangeTime",
+    "_description": "ChangeTime 2016-03-12T21:04:34 head[2], body[0] op[0x17]",
+    "timestamp": "2016-03-12T21:04:34-05:00",
+    "_body": "",
+    "_head": "1700",
+    "_date": "22c4150c10",
+    "medtronic": "mm://openaps/mm-format-ns-treatments/ChangeTime",
+    "created_at": "2016-03-12T21:04:34-05:00",
+    "enteredBy": "openaps://medtronic/522",
+    "eventType": "Note",
+    "notes": "ChangeTime 522 "
+  },
+  {
+    "_type": "ChangeTimeDisplay",
+    "_description": "ChangeTimeDisplay 2016-03-12T21:04:28 head[2], body[0] op[0x64]",
+    "timestamp": "2016-03-12T21:04:28-05:00",
+    "_body": "",
+    "_head": "6400",
+    "_date": "1cc4150c10",
+    "medtronic": "mm://openaps/mm-format-ns-treatments/ChangeTimeDisplay",
+    "created_at": "2016-03-12T21:04:28-05:00",
+    "enteredBy": "openaps://medtronic/522",
+    "eventType": "Note",
+    "notes": "ChangeTimeDisplay 522 "
   }
 ]
