@@ -1,17 +1,12 @@
 {
-  "requested": {
-    "duration": 0, 
-    "rate": 0, 
-    "temp": "absolute"
-  }, 
-  "bg": 115, 
+  "bg": 117, 
   "temp": "absolute", 
-  "snoozeBG": 120, 
-  "timestamp": "2016-03-15T05:26:18.681066", 
-  "rate": 0.275, 
-  "reason": "Eventual BG 120>120 but Avg. Delta -0.33 < Exp. Delta 0.8; cancel", 
-  "eventualBG": 120, 
-  "recieved": false, 
-  "duration": 26, 
-  "tick": "+3"
+  "snoozeBG": 129, 
+  "recieved": true, 
+  "rate": 1.0, 
+  "reason": "Eventual BG 129>125, temp 0.275<1.025U/hr", 
+  "eventualBG": 129, 
+  "timestamp": "2016-03-15T05:31:14.225094", 
+  "duration": 30, 
+  "tick": "+2"
 }
