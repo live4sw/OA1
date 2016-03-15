@@ -1,17 +1,12 @@
 {
-  "requested": {
-    "duration": 30, 
-    "rate": 0.4, 
-    "temp": "absolute"
-  }, 
-  "bg": 121, 
+  "bg": 120, 
   "temp": "absolute", 
   "snoozeBG": 117, 
-  "timestamp": "2016-03-15T01:36:25.501592", 
-  "rate": 0.0, 
+  "recieved": true, 
+  "rate": 0.4, 
   "reason": "Eventual BG 117<120, no temp, setting 0.375U/hr", 
   "eventualBG": 117, 
-  "recieved": false, 
-  "duration": 0, 
+  "timestamp": "2016-03-15T01:41:25.304444", 
+  "duration": 30, 
   "tick": -1
 }
