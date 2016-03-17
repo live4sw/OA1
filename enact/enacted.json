@@ -4,14 +4,14 @@
     "rate": 0, 
     "temp": "absolute"
   }, 
-  "bg": 117, 
+  "bg": 110, 
   "temp": "absolute", 
-  "snoozeBG": 136, 
-  "timestamp": "2016-03-17T07:56:30.231240", 
+  "snoozeBG": 113, 
+  "timestamp": "2016-03-17T08:01:18.295903", 
   "rate": 1.425, 
-  "reason": "Eventual BG 86<105, but Delta +7 > Exp. Delta 0.2; cancel", 
-  "eventualBG": 86, 
+  "reason": "Eventual BG 66<105-7, and temp 1.425 > basal 0.9", 
+  "eventualBG": 66, 
   "recieved": false, 
-  "duration": 7, 
-  "tick": "+7"
+  "duration": 2, 
+  "tick": -7
 }
