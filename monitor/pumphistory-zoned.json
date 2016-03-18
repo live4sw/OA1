@@ -1,0 +1,420 @@
+[
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-03-18T06:10:33 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-18T06:10:33-04:00", 
+    "_body": "", 
+    "_head": "1600", 
+    "duration (min)": 0, 
+    "_date": "21ca065210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-18T06:10:33 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-18T06:10:33-04:00", 
+    "_body": "00", 
+    "_head": "3300", 
+    "rate": 0.0, 
+    "_date": "21ca065210"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-03-18T05:45:36 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-18T05:45:36-04:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "24ed055210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-18T05:45:36 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-18T05:45:36-04:00", 
+    "_body": "00", 
+    "_head": "3339", 
+    "rate": 1.425, 
+    "_date": "24ed055210"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-03-18T05:35:35 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-18T05:35:35-04:00", 
+    "_body": "", 
+    "_head": "1600", 
+    "duration (min)": 0, 
+    "_date": "23e3055210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-18T05:35:35 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-18T05:35:35-04:00", 
+    "_body": "00", 
+    "_head": "3300", 
+    "rate": 0.0, 
+    "_date": "23e3055210"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-03-18T05:25:31 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-18T05:25:31-04:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "1fd9055210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-18T05:25:31 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-18T05:25:31-04:00", 
+    "_body": "00", 
+    "_head": "3300", 
+    "rate": 0.0, 
+    "_date": "1fd9055210"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-03-18T05:20:36 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-18T05:20:36-04:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "24d4055210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-18T05:20:36 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-18T05:20:36-04:00", 
+    "_body": "00", 
+    "_head": "3300", 
+    "rate": 0.0, 
+    "_date": "24d4055210"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-03-18T05:15:33 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-18T05:15:33-04:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "21cf055210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-18T05:15:33 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-18T05:15:33-04:00", 
+    "_body": "00", 
+    "_head": "3300", 
+    "rate": 0.0, 
+    "_date": "21cf055210"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-03-18T05:10:33 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-18T05:10:33-04:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "21ca055210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-18T05:10:33 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-18T05:10:33-04:00", 
+    "_body": "00", 
+    "_head": "3300", 
+    "rate": 0.0, 
+    "_date": "21ca055210"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-03-18T04:45:42 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-18T04:45:42-04:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "2aed045210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-18T04:45:42 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-18T04:45:42-04:00", 
+    "_body": "00", 
+    "_head": "3337", 
+    "rate": 1.375, 
+    "_date": "2aed045210"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-03-18T04:40:41 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-18T04:40:41-04:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "29e8045210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-18T04:40:41 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-18T04:40:41-04:00", 
+    "_body": "00", 
+    "_head": "332f", 
+    "rate": 1.175, 
+    "_date": "29e8045210"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-03-18T04:30:33 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-18T04:30:33-04:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "21de045210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-18T04:30:33 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-18T04:30:33-04:00", 
+    "_body": "00", 
+    "_head": "3320", 
+    "rate": 0.8, 
+    "_date": "21de045210"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-03-18T04:15:43 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-18T04:15:43-04:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "2bcf045210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-18T04:15:43 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-18T04:15:43-04:00", 
+    "_body": "00", 
+    "_head": "3300", 
+    "rate": 0.0, 
+    "_date": "2bcf045210"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-03-18T04:10:38 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-18T04:10:38-04:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "26ca045210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-18T04:10:38 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-18T04:10:38-04:00", 
+    "_body": "00", 
+    "_head": "3316", 
+    "rate": 0.55, 
+    "_date": "26ca045210"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-03-18T03:55:33 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-18T03:55:33-04:00", 
+    "_body": "", 
+    "_head": "1600", 
+    "duration (min)": 0, 
+    "_date": "21f7035210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-18T03:55:33 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-18T03:55:33-04:00", 
+    "_body": "00", 
+    "_head": "3300", 
+    "rate": 0.0, 
+    "_date": "21f7035210"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-03-18T03:50:33 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-18T03:50:33-04:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "21f2035210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-18T03:50:33 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-18T03:50:33-04:00", 
+    "_body": "00", 
+    "_head": "3325", 
+    "rate": 0.925, 
+    "_date": "21f2035210"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-03-18T03:45:31 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-18T03:45:31-04:00", 
+    "_body": "", 
+    "_head": "1600", 
+    "duration (min)": 0, 
+    "_date": "1fed035210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-18T03:45:31 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-18T03:45:31-04:00", 
+    "_body": "00", 
+    "_head": "3300", 
+    "rate": 0.0, 
+    "_date": "1fed035210"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-03-18T03:40:38 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-18T03:40:38-04:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "26e8035210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-18T03:40:38 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-18T03:40:38-04:00", 
+    "_body": "00", 
+    "_head": "3339", 
+    "rate": 1.425, 
+    "_date": "26e8035210"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-03-18T03:25:34 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-18T03:25:34-04:00", 
+    "_body": "", 
+    "_head": "1600", 
+    "duration (min)": 0, 
+    "_date": "22d9035210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-18T03:25:34 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-18T03:25:34-04:00", 
+    "_body": "00", 
+    "_head": "3300", 
+    "rate": 0.0, 
+    "_date": "22d9035210"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-03-18T03:00:36 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-18T03:00:36-04:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "24c0035210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-18T03:00:36 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-18T03:00:36-04:00", 
+    "_body": "00", 
+    "_head": "3339", 
+    "rate": 1.425, 
+    "_date": "24c0035210"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-03-18T02:55:31 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-18T02:55:31-04:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "1ff7025210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-18T02:55:31 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-18T02:55:31-04:00", 
+    "_body": "00", 
+    "_head": "3332", 
+    "rate": 1.25, 
+    "_date": "1ff7025210"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-03-18T02:20:33 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-18T02:20:33-04:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "21d4025210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-18T02:20:33 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-18T02:20:33-04:00", 
+    "_body": "00", 
+    "_head": "3339", 
+    "rate": 1.425, 
+    "_date": "21d4025210"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-03-18T02:15:33 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-18T02:15:33-04:00", 
+    "_body": "", 
+    "_head": "1600", 
+    "duration (min)": 0, 
+    "_date": "21cf025210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-18T02:15:33 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-18T02:15:33-04:00", 
+    "_body": "00", 
+    "_head": "3300", 
+    "rate": 0.0, 
+    "_date": "21cf025210"
+  }, 
+  {
+    "_type": "TempBasalDuration", 
+    "_description": "TempBasalDuration 2016-03-18T02:10:36 head[2], body[0] op[0x16]", 
+    "timestamp": "2016-03-18T02:10:36-04:00", 
+    "_body": "", 
+    "_head": "1601", 
+    "duration (min)": 30, 
+    "_date": "24ca025210"
+  }, 
+  {
+    "_type": "TempBasal", 
+    "temp": "absolute", 
+    "_description": "TempBasal 2016-03-18T02:10:36 head[2], body[1] op[0x33]", 
+    "timestamp": "2016-03-18T02:10:36-04:00", 
+    "_body": "00", 
+    "_head": "3325", 
+    "rate": 0.925, 
+    "_date": "24ca025210"
+  }
+]
