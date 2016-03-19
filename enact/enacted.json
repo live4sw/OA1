@@ -4,14 +4,14 @@
     "rate": 1.45, 
     "temp": "absolute"
   }, 
-  "bg": 125, 
+  "bg": 132, 
   "temp": "absolute", 
-  "snoozeBG": 132, 
-  "timestamp": "2016-03-19T17:11:33.170966", 
+  "snoozeBG": 142, 
+  "timestamp": "2016-03-19T17:16:40.672643", 
   "rate": 0.0, 
-  "reason": "Eventual BG 132>115, adj. req. rate:1.9 to maxSafeBasal:1.4, no temp, setting 1.45U/hr", 
-  "eventualBG": 132, 
+  "reason": "Eventual BG 142>115, adj. req. rate:2.4 to maxSafeBasal:1.4, no temp, setting 1.45U/hr", 
+  "eventualBG": 142, 
   "recieved": false, 
   "duration": 0, 
-  "tick": "+1"
+  "tick": "+7"
 }
