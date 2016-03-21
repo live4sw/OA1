@@ -6,12 +6,12 @@
   }, 
   "bg": 125, 
   "temp": "absolute", 
-  "snoozeBG": 106, 
-  "timestamp": "2016-03-21T13:29:09.264929", 
+  "snoozeBG": 130, 
+  "timestamp": "2016-03-21T13:31:06.322717", 
   "rate": 1.35, 
-  "reason": "Eventual BG 106>105 but Delta -5 < Exp. Delta -0.5; cancel", 
-  "eventualBG": 106, 
+  "reason": "Eventual BG 52<105-5, and temp 1.35 > basal 0.75", 
+  "eventualBG": 52, 
   "recieved": false, 
-  "duration": 7, 
+  "duration": 5, 
   "tick": -5
 }
