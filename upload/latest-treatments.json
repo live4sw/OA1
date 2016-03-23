@@ -1,1 +1,154 @@
-[]
+[
+  {
+    "duration": "0",
+    "bolus": {
+      "_type": "Bolus",
+      "_description": "Bolus 2016-03-23T13:35:40 head[4], body[0] op[0x01]",
+      "timestamp": "2016-03-23T13:35:40-04:00",
+      "_body": "",
+      "programmed": 1.4,
+      "_head": "010e0e00",
+      "amount": 1.4,
+      "duration": 0,
+      "type": "normal",
+      "_date": "28e34d1710"
+    },
+    "timestamp": "2016-03-23T13:35:40-04:00",
+    "created_at": "2016-03-23T13:35:40-04:00",
+    "carbs": "10",
+    "ratio": "7",
+    "wizard": {
+      "unknown_byte[8]": 0,
+      "_type": "BolusWizard",
+      "bg": 0,
+      "_byte[5]": 0,
+      "unknown_byte[10]": 0,
+      "_description": "BolusWizard 2016-03-23T13:35:40 head[2], body[13] op[0x5b]",
+      "timestamp": "2016-03-23T13:35:40-04:00",
+      "_body": "0a50072869000e000000000e73",
+      "bg_target_high": 115,
+      "sensitivity": 40,
+      "carb_ratio": 7,
+      "food_estimate": 1.4,
+      "unabsorbed_insulin_total": 0,
+      "correction_estimate": 0,
+      "carb_input": 10,
+      "_head": "5b00",
+      "unabsorbed_insulin_count": "??",
+      "_byte[7]": 0,
+      "bolus_estimate": 1.4,
+      "_date": "28e30d1710",
+      "bg_target_low": 105
+    },
+    "eventType": "<none>",
+    "insulin": "1.4",
+    "notes": "Normal bolus with wizard.\nProgrammed bolus 1.4\nDelivered bolus 1.4\nPercent delivered:  100%\nFood estimate 1.4\nCorrection estimate 0\nBolus estimate 1.4\nTarget low 105\nTarget high 115\nHypothetical glucose delta -56",
+    "medtronic": "mm://openaps/mm-format-ns-treatments/<none>",
+    "enteredBy": "openaps://medtronic/522"
+  },
+  {
+    "duration": "0",
+    "square": {
+      "_type": "Bolus",
+      "_description": "Bolus 2016-03-23T13:23:02 head[4], body[0] op[0x01]",
+      "timestamp": "2016-03-23T13:23:02-04:00",
+      "_body": "",
+      "appended": [
+        {
+          "_type": "UnabsorbedInsulinBolus",
+          "_description": "UnabsorbedInsulinBolus unknown head[14], body[0] op[0x5c]",
+          "_body": "",
+          "_head": "5c0e0806c02810c0500ad05078d0",
+          "data": [
+            {
+              "amount": 0.2,
+              "age": 6
+            },
+            {
+              "amount": 1,
+              "age": 16
+            },
+            {
+              "amount": 2,
+              "age": 266
+            },
+            {
+              "amount": 2,
+              "age": 376
+            }
+          ],
+          "_date": ""
+        }
+      ],
+      "programmed": 0.9,
+      "duration": 30,
+      "amount": 0.4,
+      "_head": "01090401",
+      "type": "square",
+      "_date": "02d7ad1710"
+    },
+    "timestamp": "2016-03-23T13:22:32-04:00",
+    "created_at": "2016-03-23T13:35:40-04:00",
+    "carbs": "10",
+    "ratio": "7",
+    "wizard": {
+      "unknown_byte[8]": 0,
+      "_type": "BolusWizard",
+      "bg": 0,
+      "_byte[5]": 0,
+      "unknown_byte[10]": 0,
+      "_description": "BolusWizard 2016-03-23T13:35:40 head[2], body[13] op[0x5b]",
+      "timestamp": "2016-03-23T13:35:40-04:00",
+      "_body": "0a50072869000e000000000e73",
+      "bg_target_high": 115,
+      "sensitivity": 40,
+      "carb_ratio": 7,
+      "food_estimate": 1.4,
+      "unabsorbed_insulin_total": 0,
+      "correction_estimate": 0,
+      "carb_input": 10,
+      "_head": "5b00",
+      "unabsorbed_insulin_count": "??",
+      "_byte[7]": 0,
+      "bolus_estimate": 1.4,
+      "_date": "28e30d1710",
+      "bg_target_low": 105
+    },
+    "bolus": {
+      "_type": "Bolus",
+      "_description": "Bolus 2016-03-23T13:22:32 head[4], body[0] op[0x01]",
+      "timestamp": "2016-03-23T13:22:32-04:00",
+      "_body": "",
+      "appended": [
+        {
+          "_type": "UnabsorbedInsulinBolus",
+          "_description": "UnabsorbedInsulinBolus unknown head[8], body[0] op[0x5c]",
+          "_body": "",
+          "_head": "5c0850fdc0506bd0",
+          "data": [
+            {
+              "amount": 2,
+              "age": 253
+            },
+            {
+              "amount": 2,
+              "age": 363
+            }
+          ],
+          "_date": ""
+        }
+      ],
+      "programmed": 0.8,
+      "duration": 0,
+      "amount": 0.8,
+      "_head": "01080800",
+      "type": "normal",
+      "_date": "20d68d1710"
+    },
+    "eventType": "<none>",
+    "insulin": "1.2000000000000002",
+    "notes": "DualWave bolus for 30 minutes\nProgrammed bolus 0.8\nDelivered bolus 0.8\nPercent delivered:  100%\nProgrammed square 0.9\nDelivered square 0.4\nSuccess:  44.44444444444445%\nFood estimate 1.4\nCorrection estimate 0\nBolus estimate 1.4\nTarget low 105\nTarget high 115\nHypothetical glucose delta -48.00000000000001",
+    "medtronic": "mm://openaps/mm-format-ns-treatments/<none>",
+    "enteredBy": "openaps://medtronic/522"
+  }
+]
