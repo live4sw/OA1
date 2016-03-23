@@ -14,6 +14,16 @@
     "glucose": 176
   },
   {
+    "_id": "56f2084da252ef437d595fc2",
+    "device": "dexcom",
+    "type": "cal",
+    "date": 1458702358000,
+    "dateString": "Tue Mar 22 23:05:58 EDT 2016",
+    "slope": 1164.5620384167532,
+    "intercept": 43104.953878047105,
+    "scale": 1.059156613997836
+  },
+  {
     "_id": "56f2084da252ef437d595fc1",
     "device": "dexcom",
     "type": "mbg",
@@ -115,20 +125,6 @@
     "type": "sgv",
     "filtered": 248608,
     "unfiltered": 248480,
-    "rssi": 206,
-    "noise": 1,
-    "glucose": 168
-  },
-  {
-    "_id": "56f1feeca252ef437d595fa7",
-    "device": "dexcom",
-    "date": 1458699957000,
-    "dateString": "Tue Mar 22 22:25:57 EDT 2016",
-    "sgv": 168,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 249024,
-    "unfiltered": 249120,
     "rssi": 206,
     "noise": 1,
     "glucose": 168
