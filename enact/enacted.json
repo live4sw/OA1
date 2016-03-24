@@ -7,11 +7,11 @@
   "bg": 134, 
   "temp": "absolute", 
   "snoozeBG": 127, 
-  "timestamp": "2016-03-24T03:58:38.415895", 
+  "timestamp": "2016-03-24T04:00:33.805652", 
   "rate": 0.8, 
   "reason": "Eventual BG 127>120 but Delta -1 < Exp. Delta -0.7; cancel", 
   "eventualBG": 127, 
   "recieved": false, 
-  "duration": 26, 
+  "duration": 24, 
   "tick": -1
 }
