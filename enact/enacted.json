@@ -4,9 +4,9 @@
   "snoozeBG": 86, 
   "recieved": true, 
   "rate": 0.0, 
-  "reason": "Eventual BG 73<105, no temp, setting -0.4U/hr", 
-  "eventualBG": 73, 
-  "timestamp": "2016-03-24T10:48:15.372153", 
+  "reason": "Eventual BG 75<105, no temp, setting -0.4U/hr", 
+  "eventualBG": 75, 
+  "timestamp": "2016-03-24T10:50:17.943886", 
   "duration": 30, 
   "tick": -4
 }
