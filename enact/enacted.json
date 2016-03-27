@@ -6,7 +6,7 @@
   "rate": 0.0, 
   "reason": "Eventual BG 96<120, no temp, setting -0.575U/hr", 
   "eventualBG": 96, 
-  "timestamp": "2016-03-27T02:23:13.089304", 
+  "timestamp": "2016-03-27T02:25:12.543255", 
   "duration": 30, 
   "tick": -1
 }
