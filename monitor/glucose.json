@@ -1,5 +1,47 @@
 [
   {
+    "_id": "56f758c8a252ef437d596e27",
+    "device": "dexcom",
+    "date": 1459050634000,
+    "dateString": "Sat Mar 26 23:50:34 EDT 2016",
+    "sgv": 151,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 210208,
+    "unfiltered": 208512,
+    "rssi": 198,
+    "noise": 1,
+    "glucose": 151
+  },
+  {
+    "_id": "56f7579ca252ef437d596e24",
+    "device": "dexcom",
+    "date": 1459050334000,
+    "dateString": "Sat Mar 26 23:45:34 EDT 2016",
+    "sgv": 152,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 209536,
+    "unfiltered": 209408,
+    "rssi": 198,
+    "noise": 1,
+    "glucose": 152
+  },
+  {
+    "_id": "56f7566fa252ef437d596e21",
+    "device": "dexcom",
+    "date": 1459050034000,
+    "dateString": "Sat Mar 26 23:40:34 EDT 2016",
+    "sgv": 153,
+    "direction": "Flat",
+    "type": "sgv",
+    "filtered": 208064,
+    "unfiltered": 211200,
+    "rssi": 198,
+    "noise": 1,
+    "glucose": 153
+  },
+  {
     "_id": "56f75543a252ef437d596e1e",
     "device": "dexcom",
     "date": 1459049734000,
@@ -96,47 +138,5 @@
     "rssi": 197,
     "noise": 1,
     "glucose": 149
-  },
-  {
-    "_id": "56f74d12a252ef437d596e06",
-    "device": "dexcom",
-    "date": 1459047634000,
-    "dateString": "Sat Mar 26 23:00:34 EDT 2016",
-    "sgv": 152,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 217056,
-    "unfiltered": 209632,
-    "rssi": 197,
-    "noise": 1,
-    "glucose": 152
-  },
-  {
-    "_id": "56f74be6a252ef437d596e02",
-    "device": "dexcom",
-    "date": 1459047334000,
-    "dateString": "Sat Mar 26 22:55:34 EDT 2016",
-    "sgv": 156,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 220736,
-    "unfiltered": 213824,
-    "rssi": 197,
-    "noise": 1,
-    "glucose": 156
-  },
-  {
-    "_id": "56f74abba252ef437d596dff",
-    "device": "dexcom",
-    "date": 1459047034000,
-    "dateString": "Sat Mar 26 22:50:34 EDT 2016",
-    "sgv": 160,
-    "direction": "Flat",
-    "type": "sgv",
-    "filtered": 222560,
-    "unfiltered": 217728,
-    "rssi": 197,
-    "noise": 1,
-    "glucose": 160
   }
 ]
